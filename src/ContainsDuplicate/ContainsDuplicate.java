@@ -29,6 +29,7 @@ Code compiled successfully but, I failed the submission on leetcode.
 
 I now remembered you have HashTables (where you use HashSet to find if (in this case)
 a set contains a duplicate value or not.
+A list can contain duplicate elements whereas Set contains unique elements only.
 
 Passed the submission !!
  */
