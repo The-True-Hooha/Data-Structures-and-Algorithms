@@ -3,6 +3,10 @@
 Follows the principle of storing data in linear way. The first object remains at index, 
 while incoming data is always at the top. Uses the acronym "LIFO" (Last In, First Out)
 
+Comes as an inbuilt class in java in the Collections API.
+
+The vector package also extends some functionalities of stack
+
 #### What You Should Remember
 - Only the top elements are available and can be accessed
 - Every operation (insert/deletion) occurs only at the top
