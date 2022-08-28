@@ -12,3 +12,10 @@ while incoming data is always at the top. Uses the acronym "LIFO" (Last In, Firs
     - isEmpty(): returns a boolean type of true of the element of the stack is empty
     - pop(): used to remove/delete the top element from the stack
 - All the operation here works in constant time 0(1)
+
+
+### Applications
+- Editors
+- Browsers
+- Recursions
+- Parsing
