@@ -1,4 +1,4 @@
-package Foundation.BinarySearchTree;
+package com.github.TheTrueHooha.DataStructure.BinarySearchTree;
 
 public class BinarySearchTreeApplication {
     public static void main(String[] args) {
