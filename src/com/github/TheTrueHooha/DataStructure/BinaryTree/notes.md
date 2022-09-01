@@ -13,3 +13,11 @@ Elements here can't be accessed randomly by index.
 - In-order:
 - Pre-order:
 - Post-order:
+
+### Advantages
+- can represent data with some relating to each other
+- insertion and search are much more efficient
+
+### Disadvantages
+- sorting is difficult to implement
+- There's no room for much flexibility
