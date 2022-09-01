@@ -1,4 +1,4 @@
-package Foundation.Queue;
+package com.github.TheTrueHooha.DataStructure.Queue;
 
 public class QueueApplication {
     public static void main(String[] args) {
