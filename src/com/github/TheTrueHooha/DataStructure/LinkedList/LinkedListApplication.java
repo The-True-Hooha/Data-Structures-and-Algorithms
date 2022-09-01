@@ -1,4 +1,4 @@
-package Foundation.LinkedList;
+package com.github.TheTrueHooha.DataStructure.LinkedList;
 
 import java.util.Iterator;
 import java.util.LinkedList;
