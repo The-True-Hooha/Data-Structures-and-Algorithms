@@ -1,4 +1,4 @@
-package Foundation.Array;
+package com.github.TheTrueHooha.DataStructure.Array;
 
 // creating two-dimensional arrays 2D
 

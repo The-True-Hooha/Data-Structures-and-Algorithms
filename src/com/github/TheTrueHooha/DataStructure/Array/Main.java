@@ -1,4 +1,4 @@
-package Foundation.Array;
+package com.github.TheTrueHooha.DataStructure.Array;
 
 public class Main {
 

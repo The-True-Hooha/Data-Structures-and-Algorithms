@@ -1,4 +1,4 @@
-package Foundation.Array;
+package com.github.TheTrueHooha.DataStructure.Array;
 
 import java.util.Arrays;
 // how to sort through in an array
