@@ -1,4 +1,4 @@
-package Foundation.Stack;
+package com.github.TheTrueHooha.DataStructure.Stack;
 
 // Implementing stack
 
