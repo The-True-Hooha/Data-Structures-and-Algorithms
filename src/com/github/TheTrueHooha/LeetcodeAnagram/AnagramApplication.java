@@ -67,3 +67,10 @@ public class AnagramApplication {
         }
     }
 }
+
+/*
+    Thoughts
+    This solution varies on the whosoever answers it, as I can see that
+    they are different ways to implement an anagram
+
+ */
