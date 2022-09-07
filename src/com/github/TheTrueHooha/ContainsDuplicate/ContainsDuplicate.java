@@ -1,4 +1,4 @@
-package ContainsDuplicate;
+package com.github.TheTrueHooha.ContainsDuplicate;
 
 // question is tagged leetcode easy
 

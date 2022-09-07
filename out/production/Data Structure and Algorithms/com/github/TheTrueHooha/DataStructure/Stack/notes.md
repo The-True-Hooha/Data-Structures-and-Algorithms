@@ -15,7 +15,7 @@ The vector package also extends some functionalities of stack
     - peek(): used to get/access the first element at the top of the stack
     - isEmpty(): returns a boolean type of true of the element of the stack is empty
     - pop(): used to remove/delete the top element from the stack
-- All the operation here works in constant time 0(1)
+- All the operation here works in constant time O(1)
 
 
 ### Applications
@@ -23,3 +23,13 @@ The vector package also extends some functionalities of stack
 - Browsers
 - Recursions
 - Parsing
+
+### Advantages
+- All the operations in the stack structure are in time constant i.e O(1)
+- The top elements is easily accessible and ready for use
+- Data is in LIFO manner
+
+### Disadvantages
+- There's no flexibility with the data stored
+- Manipulation of data can only be done at the top of the stack
+

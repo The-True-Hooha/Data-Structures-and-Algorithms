@@ -1,4 +1,4 @@
-package Foundation.BinaryTree;
+package com.github.TheTrueHooha.DataStructure.BinaryTree;
 
 public class BinaryTreeApplication {
     public static void main(String[] args) {
