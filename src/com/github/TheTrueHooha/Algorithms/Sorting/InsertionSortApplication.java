@@ -1,4 +1,4 @@
-package com.github.TheTrueHooha.Algorithms.Sort;
+package com.github.TheTrueHooha.Algorithms.Sorting;
 
 public class InsertionSortApplication {
 
